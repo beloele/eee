@@ -13,7 +13,7 @@ export default function Home() {
         <Link href="#" passHref>
           <Image
             className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
-            src="/logo.gif"
+            src="/logo.png"
             alt="Jojobet logo"
             width={540}
             height={111}
